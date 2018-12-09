@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Staves_Version_2.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Staves_Version_2.Composition">
+    <Position X="0.5" Y="2.5" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="Staves_Version_2.Composition.TDifficulty" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Composition.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgIAAAABgCACAUCAQAAAAAgAAAAAFABEAAAAgAIAAAA=</HashCode>
+      <FileName>Composition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Staves_Version_2.DisplayNote" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAgAAAAIAAAIAABAIIAAAAAIAQgAAAAgCEAAAiAAAA=</HashCode>
+      <FileName>DisplayNote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Staves_Version_2.Game1">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBQgkEiAIEogAwACALEAAAAhgYEBAFhIAAMwvgGAAYQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Staves_Version_2.Note" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAgAAAgCAAAAAAAAAAACAAAAQQAAAAAECAAhAAAAAA=</HashCode>
+      <FileName>Note.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Staves_Version_2.PlayNote">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Staves_Version_2.PlayNote.TToggle" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PlayNote.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAJAAAQAgEAAAAEAAAAAAEAAiAIQAoABDAAAAg=</HashCode>
+      <FileName>PlayNote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Staves_Version_2.ImportFacility" Collapsed="true">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIABIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImportFacility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Staves_Version_2.TQueue&lt;T&gt;" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAJAAAAAEgAAAACAAAAAAQCCAAAEIAAIAAAIAABA=</HashCode>
+      <FileName>Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Staves_Version_2.TCircularQueue&lt;T&gt;" Collapsed="true">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAgAAAAAAAAAIAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Staves_Version_2.Sound">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAIAAAAUAAAAAAQAAAQAAAAAAAAAECA=</HashCode>
+      <FileName>Sound.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Staves_Version_2.TDatabase" Collapsed="true">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EmiACEICQAQQgVgogQJQFgAUYAIACAgCAYIHAAQUYAI=</HashCode>
+      <FileName>TDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Staves_Version_2.TValidation" Collapsed="true">
+    <Position X="11.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAA4UoAAQAAAgQACAABqAAAwEAAAAoCIACAIEAkAEhI=</HashCode>
+      <FileName>TValidation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Staves_Version_2.ISound">
+    <Position X="4.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Sound.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

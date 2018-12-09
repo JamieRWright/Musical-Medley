@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Staves_Version_2.DisplayNote">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAgAAAAIAAAIAABAIIAAAAAIAQgAAAAgCEAAAiAAAA=</HashCode>
+      <FileName>DisplayNote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Staves_Version_2.Note">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Staves_Version_2.Note.TNote" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Note.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Staves_Version_2.Note.TOctaveIndex" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Note.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Staves_Version_2.Note.TVariation" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Note.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IgAgAAAgCAAAAAAAAAAACAAAAQQAAAAAECAAhAAAAAA=</HashCode>
+      <FileName>Note.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Staves_Version_2.Sound">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAIAAAAUAAAAAAQAAAQAAAAAAAAAECA=</HashCode>
+      <FileName>Sound.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Staves_Version_2.TQueue&lt;T&gt;">
+    <Position X="1.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAJAAAAAEgAAAACAAAAAAQCCAAAEIAAIAAAIAABA=</HashCode>
+      <FileName>Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Staves_Version_2.TCircularQueue&lt;T&gt;">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAgAAAAAAAAAIAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Staves_Version_2.ISound">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Sound.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,5 @@
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2Content\obj\x86\Debug\Staves_Version_2Content.contentprojResolveAssemblyReference.cache
+E:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2Content\obj\x86\Debug\Staves_Version_2Content.contentprojResolveAssemblyReference.cache
+F:\Staves Version 2\Staves Version 2\Staves_Version_2Content\obj\x86\Debug\Staves_Version_2Content.contentprojResolveAssemblyReference.cache
+E:\Staves Version 2\Staves Version 2\Staves_Version_2Content\obj\x86\Debug\Staves_Version_2Content.contentprojAssemblyReference.cache
+E:\Staves Version 2\Staves Version 2\Staves_Version_2Content\obj\x86\Debug\Staves_Version_2Content.contentproj.CoreCompileInputs.cache

@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>C3Natural.wav</Source>
+      <Name>C3Natural</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\C3Natural.xnb</Output>
+      <Time>2017-10-17T14:43:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>A4Natural.wav</Source>
+      <Name>A4Natural</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\A4Natural.xnb</Output>
+      <Time>2017-10-19T12:54:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>B4Natural.wav</Source>
+      <Name>B4Natural</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\B4Natural.xnb</Output>
+      <Time>2017-10-19T12:54:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C4Natural.wav</Source>
+      <Name>C4Natural</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\C4Natural.xnb</Output>
+      <Time>2017-10-19T12:54:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>D3Natural.wav</Source>
+      <Name>D3Natural</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\D3Natural.xnb</Output>
+      <Time>2017-10-19T12:54:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>E3Natural.wav</Source>
+      <Name>E3Natural</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\E3Natural.xnb</Output>
+      <Time>2017-10-19T12:54:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>F3Natural.wav</Source>
+      <Name>F3Natural</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\F3Natural.xnb</Output>
+      <Time>2017-10-19T12:54:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>G3Natural.wav</Source>
+      <Name>G3Natural</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\G3Natural.xnb</Output>
+      <Time>2017-10-19T12:54:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Crotchet.png</Source>
+      <Name>Crotchet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Crotchet.xnb</Output>
+      <Time>2017-11-04T17:22:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>staves.png</Source>
+      <Name>staves</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\staves.xnb</Output>
+      <Time>2017-11-04T16:26:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Quaver - Copy.png</Source>
+      <Name>Quaver - Copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Quaver - Copy.xnb</Output>
+      <Time>2017-11-04T17:21:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Quaver.png</Source>
+      <Name>Quaver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Quaver.xnb</Output>
+      <Time>2017-11-04T17:21:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SemiBreve.png</Source>
+      <Name>SemiBreve</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\SemiBreve.xnb</Output>
+      <Time>2017-11-09T18:18:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>A note.png</Source>
+      <Name>A note</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\A note.xnb</Output>
+      <Time>2017-11-10T14:28:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>B note.png</Source>
+      <Name>B note</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\B note.xnb</Output>
+      <Time>2017-11-10T14:53:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>C note.png</Source>
+      <Name>C note</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\C note.xnb</Output>
+      <Time>2017-11-10T14:53:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>D note.png</Source>
+      <Name>D note</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\D note.xnb</Output>
+      <Time>2017-11-10T14:53:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>E note.png</Source>
+      <Name>E note</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\E note.xnb</Output>
+      <Time>2017-11-10T14:45:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>F note.png</Source>
+      <Name>F note</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\F note.xnb</Output>
+      <Time>2017-11-10T14:28:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>G note.png</Source>
+      <Name>G note</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\G note.xnb</Output>
+      <Time>2017-11-10T14:54:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Minim.png</Source>
+      <Name>Minim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Minim.xnb</Output>
+      <Time>2017-11-09T18:17:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>CurrentNoteBox.bmp</Source>
+      <Name>CurrentNoteBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\CurrentNoteBox.xnb</Output>
+      <Time>2017-11-13T12:59:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>DifficultyBar.bmp</Source>
+      <Name>DifficultyBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\DifficultyBar.xnb</Output>
+      <Time>2018-01-04T18:23:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>DifficultyBarSlider.bmp</Source>
+      <Name>DifficultyBarSlider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\DifficultyBarSlider.xnb</Output>
+      <Time>2018-01-04T18:30:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TOP GUN.png</Source>
+      <Name>TOP GUN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\TOP GUN.xnb</Output>
+      <Time>2018-01-05T14:34:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Bar.png</Source>
+      <Name>Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Bar.xnb</Output>
+      <Time>2018-01-09T12:37:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Down Arrow.png</Source>
+      <Name>Down Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Down Arrow.xnb</Output>
+      <Time>2018-01-10T11:53:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Up Arrow.png</Source>
+      <Name>Up Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Up Arrow.xnb</Output>
+      <Time>2018-01-10T11:53:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PauseButton.png</Source>
+      <Name>PauseButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\PauseButton.xnb</Output>
+      <Time>2018-02-08T10:23:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ticker.png</Source>
+      <Name>Ticker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Ticker.xnb</Output>
+      <Time>2018-02-14T15:50:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2017-11-14T13:04:52+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5A4BA313-E4DA-4172-B496-909177787068}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Staves Version 2\Staves Version 2\Staves_Version_2Content\</RootDirectory>
+      <LoggerRootDirectory>E:\Staves Version 2\Staves Version 2\Staves_Version_2\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-10-17T21:53:36.0598349+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,171 @@
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\C3Natural.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\A4Natural.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\B4Natural.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\C4Natural.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\D3Natural.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\E3Natural.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\F3Natural.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\G3Natural.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Crotchet.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\staves.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Quaver - Copy.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Quaver.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\SemiBreve.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\A note.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\B note.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\C note.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\D note.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\E note.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\F note.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\G note.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Minim.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\CurrentNoteBox.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\DifficultyBar.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\DifficultyBarSlider.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\TOP GUN.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Bar.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Down Arrow.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Up Arrow.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\PauseButton.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Staves_Version_2.exe
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Staves_Version_2.pdb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.FeedbackScreen.resources
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.HelpScreen.resources
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.ImportScreen.resources
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.LoadupScreen.resources
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.NewStudentDetails.resources
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.PauseScreen.resources
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.RegisterScreen.resources
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.SongMenu.resources
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\MusicalMedley.csproj.GenerateResource.Cache
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.exe
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.pdb
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\MusicalMedley.csprojResolveAssemblyReference.cache
+F:\Year 2\Project\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Ticker.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\C3Natural.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\A4Natural.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\B4Natural.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\C4Natural.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\D3Natural.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\E3Natural.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\F3Natural.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\G3Natural.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Crotchet.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\staves.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Quaver - Copy.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Quaver.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\SemiBreve.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\A note.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\B note.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\C note.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\D note.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\E note.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\F note.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\G note.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Minim.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\CurrentNoteBox.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\DifficultyBar.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\DifficultyBarSlider.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\TOP GUN.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Bar.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Down Arrow.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Up Arrow.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\PauseButton.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Ticker.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Staves_Version_2.exe
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Staves_Version_2.pdb
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.FeedbackScreen.resources
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.HelpScreen.resources
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.ImportScreen.resources
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.NewStudentDetails.resources
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.PauseScreen.resources
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.RegisterScreen.resources
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.SongMenu.resources
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\MusicalMedley.csproj.GenerateResource.Cache
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.exe
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.pdb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\C3Natural.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\A4Natural.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\B4Natural.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\C4Natural.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\D3Natural.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\E3Natural.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\F3Natural.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\G3Natural.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Crotchet.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\staves.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Quaver - Copy.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Quaver.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\SemiBreve.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\A note.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\B note.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\C note.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\D note.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\E note.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\F note.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\G note.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Minim.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\CurrentNoteBox.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\DifficultyBar.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\DifficultyBarSlider.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\TOP GUN.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Bar.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Down Arrow.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Up Arrow.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\PauseButton.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\Ticker.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Staves_Version_2.exe
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Staves_Version_2.pdb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.FeedbackScreen.resources
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.HelpScreen.resources
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.ImportScreen.resources
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.NewStudentDetails.resources
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.PauseScreen.resources
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.RegisterScreen.resources
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.SongMenu.resources
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\MusicalMedley.csproj.GenerateResource.Cache
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.exe
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.pdb
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\MusicalMedley.csprojResolveAssemblyReference.cache
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.Form1.resources
+F:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.LoginScreen.resources
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.Form1.resources
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\Staves_Version_2.LoginScreen.resources
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\MusicalMedley.csproj.CoreCompileInputs.cache
+E:\Staves Version 2\Staves Version 2\Staves_Version_2\obj\x86\Debug\MusicalMedley.csproj.CopyComplete
